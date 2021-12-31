@@ -1,7 +1,7 @@
 @extends('layouts.main')
 
-@section('title', 'HDC Events')
+@section('title', 'Contato')
 
 @section('content')
-    <p>Olá mundo</p>
+    <p>Olá, jovem</p>
 @endsection
