@@ -118,6 +118,26 @@ header {
     color: #757575;
 }
 
+/* Event create page */
+.form-group {
+    margin-bottom: 1rem;
+}
+
+#event-create-container {
+    padding: 30px;
+}
+
+#event-create-container label {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#event-create-container input,
+#event-create-container select,
+#event-create-container textarea {
+    font-size: 15px;
+}
+
 /* Footer */
 footer {
     text-align: center;
