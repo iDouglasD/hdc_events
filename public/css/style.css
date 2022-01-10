@@ -159,7 +159,7 @@ header {
 }
 
 #info-container {
-    font-size: 36px;
+    font-size: 18px;
     font-weight: 900;
 }
 
@@ -183,6 +183,15 @@ header {
 
 #info-container #event-submit {
     margin: 20px 0;
+}
+
+#items-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+#items-list li {
+    display: flex;
 }
 
 /* Footer */
